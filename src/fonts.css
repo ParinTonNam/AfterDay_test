@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQkZYA8Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQo5YA8Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQT5EA8Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQdpEA8Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAjBN9d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/SZcS3EX9IbbyeJ8aOluD52KXgUA_7Ed1I13G853Cp9duUYFhYltk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Wix Madefor Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/SZcS3EX9IbbyeJ8aOluD52KXgUA_7Ed1I13G853Cp9duUYGGZVtk.ttf) format('truetype');
+}
+
